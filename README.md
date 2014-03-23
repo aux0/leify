@@ -3,7 +3,7 @@ leify
 
 Leify leifies your sentences! It's quite simple!
 
-Here's a couple of examples:
+Here are a couple of examples:
 
 ```
 $ python leify.py
