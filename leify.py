@@ -3,10 +3,10 @@ import argparse
 
 EPILOG = '''
 examples:
-  your hue a hue
+  python.py "your hue a hue"
     le your le hue le a le hue
 
-  hello there world!
+  python.py "hello there world!"
     le hello le there le world!
 '''
 

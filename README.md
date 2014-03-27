@@ -17,15 +17,13 @@ optional arguments:
 ## Examples
 
 ```
-python leify.py
-    Leify what? Hello World!
-    le Hello le World!
+python.py "your hue a hue"
+    le your le hue le a le hue
 ```
 
 ```
-python leify.py
-    Leify what? Your mum a hue.
-    Le Your le mum le a le hue.
+python.py "hello there world!"
+    le hello le there le world!
 ```
 
 Happy leifying! :^)
