@@ -1,9 +1,8 @@
-leify
-=====
+# leify
 
 `leify` leifies your sentences!
 
-Here are a couple of examples:
+## Examples
 
 ```
 python leify.py
