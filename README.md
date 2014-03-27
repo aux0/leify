@@ -17,12 +17,12 @@ optional arguments:
 ## Examples
 
 ```
-python.py "your hue a hue"
+leify.py "your hue a hue"
     le your le hue le a le hue
 ```
 
 ```
-python.py "hello there world!"
+leify.py "hello there world!"
     le hello le there le world!
 ```
 
