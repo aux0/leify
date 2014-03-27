@@ -2,6 +2,18 @@
 
 `leify` leifies your sentences!
 
+## Usage
+
+```
+usage: leify [-h] text
+
+positional arguments:
+  text        the text to be leified
+
+optional arguments:
+  -h, --help  show this help message and exit
+```
+
 ## Examples
 
 ```
